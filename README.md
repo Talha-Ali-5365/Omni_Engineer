@@ -1,6 +1,6 @@
 # Omni_Engineer
 
-Omni_Engineer is a versatile platform integrating various developer tools through a FastAPI‑based microservice architecture, orchestrated using the illegal-Agents platform and the Nexus bot personality. It provides capabilities for web searching (via Tavily), result summarization (using Google Generative AI), IDE control (JetBrains), database interaction (Supabase), version control management (GitHub), and team communication (Slack), all exposed via simple HTTP APIs managed by Supergateway.
+Omni_Engineer. It's an integrated system designed for maximum software development efficiency. Architected using FastAPI-based microservices and orchestrated via the illegal-Agents platform, it centralizes critical development functions. Its capabilities include executing web searches (leveraging Tavily), synthesizing information (via Google Generative AI), interfacing directly with IDEs (JetBrains), managing databases (Supabase), handling version control operations (GitHub), and facilitating team communication (Slack). These functions are exposed through streamlined HTTP APIs managed by Supergateway, allowing for seamless interaction and task execution.
 
 ## Bot Configuration (illegal-Agents Dashboard)
 
