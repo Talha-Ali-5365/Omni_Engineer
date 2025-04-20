@@ -60,7 +60,7 @@ mcp = FastApiMCP(
 
     name="My API MCP",
     description="My API description",
-    base_url="http://localhost:8004",
+    base_url="http://localhost:8008",
 )
 
 mcp.mount()
