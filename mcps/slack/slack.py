@@ -114,7 +114,7 @@ mcp = FastApiMCP(
 
     name="My SLACK API MCP",
     description="SLACK APP",
-    base_url="http://localhost:8008",
+    base_url="http://localhost:8006",
 )
 
 mcp.mount()
